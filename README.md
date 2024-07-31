@@ -1,4 +1,4 @@
-**Data Visualization with Python · Automobile Sales**
+# Data Visualization with Python · Automobile Sales
 
 **Context**
 
