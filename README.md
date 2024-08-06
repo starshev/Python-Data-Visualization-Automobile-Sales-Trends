@@ -12,7 +12,7 @@ Creating informative and visually appealing plots with Matplotlib and Seaborn:
 * Pie chart
 * Scatter plot
 * Sub-plotted charts
-* Folium Choropleth map chart
+* Folium Choropleth map
 
 Using visualization to communicate insights from the data  
 Analyzing data through visualizations  
