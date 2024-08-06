@@ -6,7 +6,13 @@ A data analysis team is tasked with creating plots based on automobile sales dat
 
 **Skills**
 
-Creating informative and visually appealing plots with Matplotlib and Seaborn  
+Creating informative and visually appealing plots with Matplotlib and Seaborn: 
+* Line chart / Multiple Line chart
+* Bar plot / Multiple Bar plot
+* Pie chart
+* Scatter plot
+* Sub-plotted charts
+* Folium Choropleth map chart
 Using visualization to communicate insights from the data  
 Analyzing data through visualizations  
 Customizing visualizations
