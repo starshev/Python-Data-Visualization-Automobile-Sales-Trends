@@ -1,19 +1,13 @@
-# Data Visualization with Python · Automobile Sales
+# Data Visualization with Python · Automobile Sales Trends
 
-**Context**
+### Project Overview
+Created a range of visualizations to analyze historical trends in automobile sales, focusing on recession periods. The project involved building line charts, bar plots, scatter plots, pie charts, and choropleth maps to highlight trends and insights.
 
-A data analysis team is tasked with creating plots based on automobile sales data to understand the historical trends in automobile sales during various recession periods.
+### Key Skills
+Creating and customizing visualizations with Matplotlib and Seaborn (line charts, bar plots, scatter plots, pie charts, subplots), using Folium for choropleth mapping, analyzing trends through visualizations, and effectively communicating data insights.
 
-**Skills**
+### Описание проекта
+Созданы разнообразные визуализации для анализа исторических трендов продаж автомобилей, с акцентом на периоды рецессий. Проект включал построение линейных графиков, столбчатых диаграмм, точечных диаграмм, круговых диаграмм и карт-хороплетов для выявления и представления ключевых данных и инсайтов.
 
-Creating informative and visually appealing plots with Matplotlib and Seaborn: 
-* Line chart / Multiple Line chart
-* Bar plot / Multiple Bar plot
-* Pie chart
-* Scatter plot
-* Sub-plotted charts
-* Folium Choropleth map
-
-Using visualization to communicate insights from the data  
-Analyzing data through visualizations  
-Customizing visualizations
+### Ключевые навыки
+Создание и настройка визуализаций с использованием Matplotlib и Seaborn (линейные графики, столбчатые диаграммы, точечные и круговые диаграммы, суб-графики), создание фоновых картограмм с помощью Folium, анализ трендов через визуализации и эффективная коммуникация инсайтов.
