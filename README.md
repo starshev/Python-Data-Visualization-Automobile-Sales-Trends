@@ -1,4 +1,4 @@
-# Visualizing Automobile Sales Trends During Recession Periods
+## Visualizing Automobile Sales Trends During Recession Periods
 
 ### Task
 Develop plots using Python to illustrate historical trends in automobile sales during recession periods and provide an analysis of the findings.
@@ -6,7 +6,7 @@ Develop plots using Python to illustrate historical trends in automobile sales d
 ### Skills
 Building and customizing visualizations in Jupyter Notebooks with Matplotlib and Seaborn (line charts, bar plots, scatter plots, pie charts, subplots), creating choropleth maps with Folium, analyzing trends through visualizations, effectively communicating insights.
 
-# Визуализация трендов продаж автомобилей в периоды рецессий
+## Визуализация трендов продаж автомобилей в периоды рецессий
 
 ### Задача
 Разработать графики с использованием Python, отображающие исторические тренды продаж автомобилей в периоды рецессий, и провести анализ полученных данных.
